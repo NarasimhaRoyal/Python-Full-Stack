@@ -1,0 +1,79 @@
+Introduction to Programming and Python
+1. What is Programming?
+
+Programming is the process of writing instructions that tell a computer what to do.
+
+A set of instructions written to perform a specific task is called a Program.
+
+Key Points
+Converts requirements into computer instructions
+Helps computers perform specific tasks
+Uses programming languages to communicate with computers
+2. What is a Programming Language?
+
+A programming language is a language used to communicate with computers and create software applications.
+
+Examples
+Python
+Java
+C
+C++
+3. Programming Paradigms
+
+A programming paradigm is a style or approach used to design and write programs.
+
+Common Paradigms
+Procedural Programming
+Object-Oriented Programming (OOP)
+4. Procedural Programming
+
+Procedural programming focuses on functions, procedures, and step-by-step execution.
+
+Characteristics
+Function-based
+Top-to-bottom execution
+Easy to learn
+Suitable for small applications
+Less code reusability
+Difficult to maintain large projects
+Lower data security
+Advantages
+Simple to understand
+Easy to write
+Fast execution
+Suitable for small programs
+Disadvantages
+Difficult for large projects
+Less reusable code
+Difficult maintenance
+Lower data security
+5. Object-Oriented Programming (OOP)
+
+OOP organizes programs using Classes and Objects.
+
+It focuses on representing real-world entities using data and behavior.
+
+Main Concepts
+Class
+Object
+Encapsulation
+Inheritance
+Polymorphism
+Abstraction
+Characteristics
+Class-based
+Object-based
+Code reusability
+Data security
+Easy maintenance
+Easy scalability
+Advantages
+High code reusability
+Better security
+Easy maintenance
+Easy scalability
+Suitable for large applications
+Disadvantages
+More memory usage
+Slightly slower execution
+More complex for beginners
