@@ -17,8 +17,8 @@ print("After adding and removing:", numbers)
 # ==========================================
 
 student = {
-    "name": "Rafi",
-    "age": 23,
+    "name": "Narasimha",
+    "age": 21,
     "course": "CSE"
 }
 
