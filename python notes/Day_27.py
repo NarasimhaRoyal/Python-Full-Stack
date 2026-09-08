@@ -1,5 +1,4 @@
-rom abc import ABC, abstractmethod
-
+from abc import ABC, abstractmethod
 
 # Abstract class
 class Vehicle(ABC):
